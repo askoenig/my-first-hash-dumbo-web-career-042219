@@ -1,6 +1,6 @@
 def my_hash
   first_and_last = {}
-first_and_last =>
+first_and_last = {Andrew => Koenig
   
 end
 
