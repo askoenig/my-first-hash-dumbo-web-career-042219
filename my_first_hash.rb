@@ -1,5 +1,5 @@
 def my_hash
-  my_name => Andrew Koenig
+  first_and_last = {}
 
   
 end
